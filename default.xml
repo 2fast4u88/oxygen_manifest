@@ -17,7 +17,7 @@
   <project path="development" name="platform/development" />
   <project path="device/common" name="device/common" />
   <!-- project path="device/htc/bravo" name="oxygen-rom/android_device_htc_bravo" remote="github" / -->
-  <project path="device/htc/bravoc" name="2fast4u88/oxygen_device_htc_bravoc" remote="github" />
+  <project path="device/htc/bravoc" name="oxygen-rom/android_device_htc_bravoc" remote="github" />
   <project path="device/htc/common" name="CyanogenMod/android_device_htc_common" remote="github" />
   <project path="device/htc/passion" name="oxygen-rom/android_device_htc_passion" remote="github" />
   <!-- project path="device/sample" name="device/sample" / -->
@@ -164,7 +164,7 @@
   <project path="vendor/broadcom" name="koush/proprietary_vendor_broadcom" remote="github" />
   <project path="vendor/imgtec" name="koush/proprietary_vendor_imgtec" remote="github" />
   <project path="vendor/nxp" name="koush/proprietary_vendor_nxp" remote="github" />
-  <project path="vendor/oxygen" name="2fast4u88/oxygen_vendor_oxygen" remote="github" />
+  <project path="vendor/oxygen" name="oxygen-rom/android_vendor_oxygen" remote="github" />
   <project path="vendor/google" name="oxygen-rom/android_vendor_google" remote="github" />
   <project path="vendor/htc" name="oxygen-rom/android_vendor_htc" remote="github" />
   <!-- project path="vendor/samsung" name="oxygen-rom/android_vendor_samsung" remote="github" / -->
